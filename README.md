@@ -23,7 +23,3 @@ Adding new authors is currently unavailable. Seeding process must be done manual
 ...in order before being able to run `ruby bin/run`.
 
 Currently accepting the city of the user but this is not being used. Update will include ability to check the weather by day the quiz was taken to see if that affects the mood of the user.
-
-### Mostly Fixed
-
-Google has been persuaded that I am not mining cryptocurrency, and thus the add_quote method now works again. However, they have already restricted and reinstated this app before so who knows when they will restrict the app again. I need to find out what I'm doing that's triggering Google to believe I'm mining cryptocurrency so that they don't keep hobbling my ability to do sentiment analysis.
